@@ -1,4 +1,4 @@
-26868849374183338
+26870622328438999
 .tls-footprints
 5V Buck Converter
 
@@ -53,7 +53,7 @@ GT-U7 GPS
 
 
 0
-6
+5
 5
 .tls-footprints
 H10_ReaderPunch
@@ -209,6 +209,13 @@ resistor 0603
 0
 2
 2
+.tls-footprints
+RaspberryPi_Pico_Common_Unspecified
+Raspberry Pi Pico versatile common (Pico & Pico W) footprint for surface-mount or through-hole hand soldering, supports Raspberry Pi Pico 2, default socketed model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+module usb pcb antenna
+0
+80
+40
 .tls-footprints
 RedBoardTurboShield
 https://docs.arduino.cc/hardware/uno-rev3
